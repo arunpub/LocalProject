@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="My Retrying suite">
+    <listeners>
+        <listener class-name="com.arun.LocalProject.Listener.ExtentTestNGITestListener"></listener>
+        <listener class-name="com.arun.LocalProject.Listener.RetryTrasformer"></listener>
+    </listeners>
+    <test name="RetryingTest">
+        <classes>
+            <class name="com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization"></class>
+        </classes>
+    </test>
+</suite>

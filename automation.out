@@ -1,0 +1,1491 @@
+2019-08-06 18:08:445 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-06 18:08:446 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-06 18:08:487 INFO  HomePageHelper:38 -Getting the Current Newtrok Name=Matter Management Regression Network
+2019-08-06 18:08:487 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-06 18:08:488 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-06 18:08:593 INFO  HomePageHelper:38 -Clicking the Current Newtrok Name=Matter Management Regression Network
+2019-08-06 18:08:688 INFO  HomePage:31 -Selecting Given Newtork Name=ArunTestNetwork
+2019-08-06 18:08:689 INFO  TC_003SwitchToNewtork:45 -***********Ending-TC_003SwitchToNewtork************
+2019-08-06 18:08:691 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-06 18:08:782 INFO  TestBase:78 -Closing the browser
+2019-08-06 18:08:523 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-06 18:08:958 INFO  TestBase:68 -Getting the URL
+2019-08-06 18:08:959 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-06 18:08:78 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-06 18:08:80 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-06 18:08:83 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-06 18:08:170 INFO  LoginPage:27 -Entered UserName=sa
+2019-08-06 18:08:171 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-06 18:08:247 INFO  LoginPage:27 -Entered Password=sa
+2019-08-06 18:08:248 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-06 18:08:774 INFO  LoginPage:27 -Clicked in Login Button
+2019-08-06 18:08:779 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-06 18:08:780 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-06 18:08:820 INFO  HomePageHelper:38 -Getting the Current Newtrok Name=Matter Management Regression Network_Office
+2019-08-06 18:08:821 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-06 18:08:821 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-06 18:08:902 INFO  HomePageHelper:38 -Clicking the Current Newtrok Name=Matter Management Regression Network_Office
+2019-08-06 18:08:982 INFO  HomePage:31 -Selecting Given Newtork Name=ArunTestNetwork
+2019-08-06 18:08:983 INFO  TC_003SwitchToNewtork:45 -***********Ending-TC_003SwitchToNewtork************
+2019-08-06 18:08:985 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-06 18:08:82 INFO  TestBase:78 -Closing the browser
+2019-08-06 18:08:590 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-06 18:08:135 INFO  TestBase:68 -Getting the URL
+2019-08-06 18:08:135 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-06 18:08:527 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-06 18:08:530 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-06 18:08:532 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-06 18:08:606 INFO  LoginPage:27 -Entered UserName=sa
+2019-08-06 18:08:606 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-06 18:08:680 INFO  LoginPage:27 -Entered Password=sa
+2019-08-06 18:08:681 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-06 18:08:590 INFO  LoginPage:27 -Clicked in Login Button
+2019-08-06 18:08:597 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-06 18:08:597 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-06 18:08:644 INFO  HomePageHelper:38 -Getting the Current Newtrok Name=ArunTestNetwork
+2019-08-06 18:08:645 INFO  TC_003SwitchToNewtork:45 -***********Ending-TC_003SwitchToNewtork************
+2019-08-06 18:08:647 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-06 18:08:41 INFO  TestBase:78 -Closing the browser
+2019-08-07 11:08:378 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-07 11:08:342 INFO  TestBase:68 -Getting the URL
+2019-08-07 11:08:343 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-07 11:08:631 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:636 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-07 11:08:653 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-07 11:08:449 INFO  TestBase:76 -Test is Failure:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:519 INFO  TestBase:76 -Test is Failure:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:550 INFO  TestBase:78 -Closing the browser
+2019-08-07 11:08:172 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-07 11:08:775 INFO  TestBase:68 -Getting the URL
+2019-08-07 11:08:775 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-07 11:08:77 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:80 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-07 11:08:83 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-07 11:08:500 INFO  LoginPage:27 -Entered UserName=sa
+2019-08-07 11:08:500 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-07 11:08:576 INFO  LoginPage:27 -Entered Password=sa
+2019-08-07 11:08:576 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-07 11:08:723 INFO  LoginPage:27 -Clicked in Login Button
+2019-08-07 11:08:731 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-07 11:08:732 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-07 11:08:794 INFO  HomePageHelper:38 -Getting the Current Newtrok Name=Matter Management Regression Network
+2019-08-07 11:08:795 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-07 11:08:796 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-07 11:08:902 INFO  HomePageHelper:38 -Clicking the Current Newtrok Name=Matter Management Regression Network
+2019-08-07 11:08:992 INFO  HomePage:31 -Selecting Given Newtork Name=ArunTestNetwork
+2019-08-07 11:08:994 INFO  TC_003SwitchToNewtork:45 -***********Ending-TC_003SwitchToNewtork************
+2019-08-07 11:08:996 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:336 INFO  TestBase:78 -Closing the browser
+2019-08-07 11:08:372 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-07 11:08:60 INFO  TestBase:68 -Getting the URL
+2019-08-07 11:08:60 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-07 11:08:324 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:324 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-07 11:08:329 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-07 11:08:466 INFO  LoginPage:27 -Entered UserName=sa
+2019-08-07 11:08:467 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-07 11:08:544 INFO  LoginPage:27 -Entered Password=sa
+2019-08-07 11:08:545 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-07 11:08:736 INFO  LoginPage:27 -Clicked in Login Button
+2019-08-07 11:08:743 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-07 11:08:744 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-07 11:08:790 INFO  HomePageHelper:38 -Getting the Current Newtrok Name=ArunTestNetwork
+2019-08-07 11:08:795 INFO  TC_003SwitchToNewtork:45 -***********Ending-TC_003SwitchToNewtork************
+2019-08-07 11:08:797 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:200 INFO  TestBase:78 -Closing the browser
+2019-08-07 11:08:165 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-07 11:08:648 INFO  TestBase:68 -Getting the URL
+2019-08-07 11:08:649 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-07 11:08:918 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:920 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-07 11:08:922 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-07 11:08:01 INFO  LoginPage:27 -Entered UserName=sa
+2019-08-07 11:08:02 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-07 11:08:176 INFO  LoginPage:27 -Entered Password=sa
+2019-08-07 11:08:176 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-07 11:08:532 INFO  LoginPage:27 -Clicked in Login Button
+2019-08-07 11:08:539 INFO  HomePage:31 -Getting the current Network Name Element
+2019-08-07 11:08:540 INFO  TestBase:99 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-07 11:08:592 INFO  HomePageHelper:34 -Getting the Current Newtrok Name=ArunTestNetwork
+2019-08-07 11:08:595 INFO  TC_003SwitchToNewtork:45 -***********Ending-TC_003SwitchToNewtork************
+2019-08-07 11:08:599 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-07 11:08:26 INFO  TestBase:78 -Closing the browser
+2019-08-12 15:08:884 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 15:08:501 INFO  TestBase:68 -Getting the URL
+2019-08-12 15:08:501 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 15:08:210 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 15:08:215 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 15:08:201 INFO  TestBase:78 -Closing the browser
+2019-08-12 15:08:156 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 15:08:751 INFO  TestBase:68 -Getting the URL
+2019-08-12 15:08:752 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 15:08:266 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 15:08:270 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 15:08:434 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-12 15:08:435 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 15:08:502 INFO  LoginPage:31 -Entered Password=sa
+2019-08-12 15:08:502 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButtonnnn
+2019-08-12 15:08:612 INFO  TestBase:78 -Closing the browser
+2019-08-12 15:08:831 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 15:08:343 INFO  TestBase:68 -Getting the URL
+2019-08-12 15:08:344 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 15:08:250 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 15:08:253 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 15:08:386 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-12 15:08:387 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 15:08:464 INFO  LoginPage:31 -Entered Password=sa
+2019-08-12 15:08:464 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-12 15:08:503 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-12 15:08:224 INFO  LoginPage:31 -Clicked in Login Button
+2019-08-12 15:08:224 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-12 15:08:230 INFO  TestBase:78 -Closing the browser
+2019-08-12 16:08:571 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 16:08:246 INFO  TestBase:68 -Getting the URL
+2019-08-12 16:08:248 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 16:08:710 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 16:08:718 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 16:08:871 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-12 16:08:871 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 16:08:957 INFO  LoginPage:31 -Entered Password=sa
+2019-08-12 16:08:958 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_LOGOFF_XPATH and value=//*[@id="gmLogoffButton"]
+2019-08-12 16:08:13 INFO  TestBase:78 -Closing the browser
+2019-08-12 16:08:141 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 16:08:574 INFO  TestBase:68 -Getting the URL
+2019-08-12 16:08:575 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 16:08:565 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 16:08:569 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 16:08:651 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-12 16:08:651 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 16:08:728 INFO  LoginPage:31 -Entered Password=sa
+2019-08-12 16:08:728 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_LOGOFF_XPATH and value=//*[@id="gmLogoffButton"]
+2019-08-12 16:08:799 INFO  TestBase:78 -Closing the browser
+2019-08-12 16:08:389 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 16:08:208 INFO  TestBase:68 -Getting the URL
+2019-08-12 16:08:209 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 16:08:75 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 16:08:91 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 16:08:303 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-12 16:08:303 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 16:08:792 INFO  LoginPage:31 -Entered Password=sa
+2019-08-12 16:08:301 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_LOGOFF_XPATH and value=//*[@id="gmLogoffButton"]
+2019-08-12 16:08:669 INFO  TestBase:78 -Closing the browser
+2019-08-12 16:08:524 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 16:08:458 INFO  TestBase:68 -Getting the URL
+2019-08-12 16:08:458 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 16:08:169 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 16:08:181 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 16:08:287 INFO  LoginPage:32 -Entered UserName=sa
+2019-08-12 16:08:287 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 16:08:481 INFO  LoginPage:32 -Entered Password=sa
+2019-08-12 16:08:653 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_LOGOFF_XPATH and value=//*[@id="gmLogoffButton"]
+2019-08-12 16:08:832 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 16:08:714 INFO  TestBase:68 -Getting the URL
+2019-08-12 16:08:716 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 16:08:201 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 16:08:215 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 16:08:419 INFO  LoginPage:32 -Entered UserName=sa
+2019-08-12 16:08:420 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 16:08:521 INFO  LoginPage:32 -Entered Password=sa
+2019-08-12 16:08:969 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-12 16:08:301 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 16:08:141 INFO  TestBase:68 -Getting the URL
+2019-08-12 16:08:142 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 16:08:747 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 16:08:754 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 16:08:834 INFO  LoginPage:32 -Entered UserName=sa
+2019-08-12 16:08:834 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 16:08:978 INFO  LoginPage:32 -Entered Password=sa
+2019-08-12 16:08:19 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_LOGOFF_XPATH and value=//*[@id="gmLogoffButton"]
+2019-08-12 17:08:357 INFO  TestBase:99 -Loading the propertiesFile key=browser and value=chrome
+2019-08-12 17:08:01 INFO  TestBase:68 -Getting the URL
+2019-08-12 17:08:01 INFO  TestBase:99 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-12 17:08:401 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-12 17:08:414 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-12 17:08:563 INFO  LoginPage:29 -Entered UserName=sa
+2019-08-12 17:08:563 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=#PasswordTextBox
+2019-08-12 17:08:630 INFO  LoginPage:29 -Entered Password=sa
+2019-08-12 17:08:631 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=#LoginButton
+2019-08-12 17:08:877 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-12 17:08:878 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-12 17:08:885 INFO  TestBase:78 -Closing the browser
+2019-08-13 11:08:552 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=#LoginTextBox
+2019-08-13 11:08:335 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 11:08:341 INFO  TestBase:99 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:23 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=CSS:#LoginTextBox
+2019-08-13 12:08:27 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=CSS:#LoginTextBox
+2019-08-13 12:08:361 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:361 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:79 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:672 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:86 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:90 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:581 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:586 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:174 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:178 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:770 INFO  TestBase:101 -Loading the propertiesFile key=browser and value=chrome
+2019-08-13 12:08:595 INFO  TestBase:70 -Getting the URL
+2019-08-13 12:08:595 INFO  TestBase:101 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-13 12:08:594 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-13 12:08:597 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:815 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=css:#PasswordTextBox
+2019-08-13 12:08:890 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=css:#LoginButton
+2019-08-13 12:08:229 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-13 12:08:235 INFO  TestBase:80 -Closing the browser
+2019-08-13 12:08:510 INFO  TestBase:101 -Loading the propertiesFile key=browser and value=chrome
+2019-08-13 12:08:48 INFO  TestBase:70 -Getting the URL
+2019-08-13 12:08:56 INFO  TestBase:101 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-13 12:08:727 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-13 12:08:731 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:810 INFO  LoginPage:28 -Entered UserName=sa
+2019-08-13 12:08:811 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=css:#PasswordTextBox
+2019-08-13 12:08:952 INFO  LoginPage:28 -Entered Password=sa
+2019-08-13 12:08:953 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=css:#LoginButton
+2019-08-13 12:08:920 INFO  LoginPage:28 -Clicked in Login Button
+2019-08-13 12:08:920 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-13 12:08:925 INFO  TestBase:80 -Closing the browser
+2019-08-13 12:08:333 INFO  TestBase:101 -Loading the propertiesFile key=browser and value=chrome
+2019-08-13 12:08:917 INFO  TestBase:70 -Getting the URL
+2019-08-13 12:08:918 INFO  TestBase:101 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-13 12:08:419 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-13 12:08:422 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:493 INFO  LoginPage:28 -Entered UserName=sa
+2019-08-13 12:08:494 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=css:#PasswordTextBox
+2019-08-13 12:08:562 INFO  LoginPage:28 -Entered Password=sa
+2019-08-13 12:08:563 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=css:#LoginButton
+2019-08-13 12:08:351 INFO  LoginPage:28 -Clicked in Login Button
+2019-08-13 12:08:351 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-13 12:08:356 INFO  TestBase:80 -Closing the browser
+2019-08-13 12:08:993 INFO  TestBase:101 -Loading the propertiesFile key=browser and value=chrome
+2019-08-13 12:08:565 INFO  TestBase:70 -Getting the URL
+2019-08-13 12:08:565 INFO  TestBase:101 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-13 12:08:61 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-13 12:08:64 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:139 INFO  LoginPage:28 -Entered UserName=sa
+2019-08-13 12:08:139 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=css:#PasswordTextBox
+2019-08-13 12:08:293 INFO  LoginPage:28 -Entered Password=sa
+2019-08-13 12:08:294 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=css:#LoginButton
+2019-08-13 12:08:66 INFO  LoginPage:28 -Clicked in Login Button
+2019-08-13 12:08:67 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-13 12:08:74 INFO  TestBase:80 -Closing the browser
+2019-08-13 12:08:518 INFO  TestBase:101 -Loading the propertiesFile key=browser and value=chrome
+2019-08-13 12:08:17 INFO  TestBase:70 -Getting the URL
+2019-08-13 12:08:17 INFO  TestBase:101 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-13 12:08:640 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-13 12:08:645 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_USERNAME_CSS and value=css:#LoginTextBox
+2019-08-13 12:08:720 INFO  LoginPage:28 -Entered UserName=sa
+2019-08-13 12:08:720 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_PASSWORD_CSS and value=css:#PasswordTextBox
+2019-08-13 12:08:919 INFO  LoginPage:28 -Entered Password=sa
+2019-08-13 12:08:920 INFO  TestBase:101 -Loading the propertiesFile key=LOGIN_BUTTON_CSS and value=err:#LoginButton
+2019-08-13 12:08:929 INFO  TestBase:80 -Closing the browser
+2019-08-14 12:08:76 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 12:08:966 INFO  TestBase:71 -Getting the URL
+2019-08-14 12:08:967 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 12:08:470 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-14 12:08:475 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 12:08:691 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-14 12:08:692 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 12:08:773 INFO  LoginPage:31 -Entered Password=sa
+2019-08-14 12:08:774 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 12:08:859 INFO  VerficationHelper:64 - is dispalyed
+2019-08-14 12:08:860 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 12:08:737 INFO  LoginPage:31 -Clicked in Login Button
+2019-08-14 12:08:737 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-14 12:08:745 INFO  TestBase:81 -Closing the browser
+2019-08-14 12:08:307 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 12:08:823 INFO  TestBase:71 -Getting the URL
+2019-08-14 12:08:824 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 12:08:329 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-14 12:08:346 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 12:08:495 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-14 12:08:496 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 12:08:570 INFO  LoginPage:31 -Entered Password=sa
+2019-08-14 12:08:570 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 12:08:653 INFO  VerficationHelper:64 - is dispalyed
+2019-08-14 12:08:654 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 12:08:325 INFO  LoginPage:31 -Clicked in Login Button
+2019-08-14 12:08:326 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-14 12:08:331 INFO  TestBase:81 -Closing the browser
+2019-08-14 12:08:19 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 12:08:633 INFO  TestBase:71 -Getting the URL
+2019-08-14 12:08:634 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 12:08:130 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-14 12:08:134 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 12:08:280 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-14 12:08:281 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 12:08:352 INFO  LoginPage:31 -Entered Password=sa
+2019-08-14 12:08:353 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 12:08:389 ERROR VerficationHelper:24 -Element not found java.lang.NullPointerException
+2019-08-14 12:08:390 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 12:08:143 INFO  LoginPage:31 -Clicked in Login Button
+2019-08-14 12:08:144 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-14 12:08:150 INFO  TestBase:81 -Closing the browser
+2019-08-14 12:08:852 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 12:08:546 INFO  TestBase:71 -Getting the URL
+2019-08-14 12:08:547 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 12:08:315 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-14 12:08:319 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 12:08:463 INFO  LoginPage:33 -Entered UserName=sa
+2019-08-14 12:08:464 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 12:08:527 INFO  LoginPage:33 -Entered Password=sa
+2019-08-14 12:08:527 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 12:08:642 ERROR VerficationHelper:24 -Element not found java.lang.NullPointerException
+2019-08-14 12:08:644 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 12:08:536 INFO  LoginPage:33 -Clicked in Login Button
+2019-08-14 12:08:537 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 12:08:604 INFO  VerficationHelper:64 -Log Off is dispalyed
+2019-08-14 12:08:604 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-14 12:08:608 INFO  TestBase:81 -Closing the browser
+2019-08-14 12:08:523 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 12:08:04 INFO  TestBase:71 -Getting the URL
+2019-08-14 12:08:05 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 12:08:737 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-14 12:08:740 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 12:08:948 INFO  LoginPage:33 -Entered UserName=sa
+2019-08-14 12:08:948 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 12:08:19 INFO  LoginPage:33 -Entered Password=sa
+2019-08-14 12:08:20 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 12:08:147 ERROR VerficationHelper:36 -Element not found java.lang.NullPointerException
+2019-08-14 12:08:150 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 12:08:53 INFO  LoginPage:33 -Clicked in Login Button
+2019-08-14 12:08:53 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 12:08:133 INFO  VerficationHelper:64 -Log Off is dispalyed
+2019-08-14 12:08:134 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-14 12:08:138 INFO  TestBase:81 -Closing the browser
+2019-08-14 14:08:153 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 14:08:111 INFO  TestBase:71 -Getting the URL
+2019-08-14 14:08:112 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 14:08:280 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-14 14:08:284 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 14:08:568 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-14 14:08:568 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 14:08:650 INFO  LoginPage:31 -Entered Password=sa
+2019-08-14 14:08:651 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 14:08:593 INFO  LoginPage:31 -Clicked in Login Button
+2019-08-14 14:08:594 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 14:08:662 INFO  VerficationHelper:64 -actualText is :Log Off expected text is: Log Off
+2019-08-14 14:08:662 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-14 14:08:667 INFO  TestBase:81 -Closing the browser
+2019-08-14 14:08:178 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 14:08:798 INFO  TestBase:71 -Getting the URL
+2019-08-14 14:08:799 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 14:08:436 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 14:08:01 INFO  TestBase:71 -Getting the URL
+2019-08-14 14:08:02 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 14:08:391 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_002CheckingValidLogin
+2019-08-14 14:08:394 INFO  TC_002CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-14 14:08:398 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 14:08:489 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-14 14:08:490 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 14:08:673 INFO  LoginPage:31 -Entered Password=sa
+2019-08-14 14:08:674 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 14:08:823 INFO  LoginPage:31 -Clicked in Login Button
+2019-08-14 14:08:825 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 14:08:881 INFO  VerficationHelper:64 -actualText is :Log Off expected text is: Log Off
+2019-08-14 14:08:883 INFO  TC_002CheckingValidLogin:41 -***********Ending-TC_002CheckingValidLogin************
+2019-08-14 14:08:885 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_002CheckingValidLogin
+2019-08-14 14:08:304 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-14 14:08:305 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-14 14:08:306 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 14:08:418 INFO  TestBase:76 -Test is Failure:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-14 14:08:780 INFO  TestBase:81 -Closing the browser
+2019-08-14 14:08:479 INFO  TestBase:81 -Closing the browser
+2019-08-14 14:08:809 INFO  TestBase:102 -Loading the propertiesFile key=browser and value=chrome
+2019-08-14 14:08:544 INFO  TestBase:71 -Getting the URL
+2019-08-14 14:08:545 INFO  TestBase:102 -Loading the propertiesFile key=url and value=https://web-r2.dev.wkelms.com/
+2019-08-14 14:08:55 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-14 14:08:57 INFO  TC_003SwitchToNewtork:45 -**********Starting-TC_003SwitchToNewtork**********
+2019-08-14 14:08:60 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_USERNAME and value=css:#LoginTextBox
+2019-08-14 14:08:146 INFO  LoginPage:31 -Entered UserName=sa
+2019-08-14 14:08:147 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_PASSWORD and value=css:#PasswordTextBox
+2019-08-14 14:08:311 INFO  LoginPage:31 -Entered Password=sa
+2019-08-14 14:08:312 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_BUTTON and value=css:#LoginButton
+2019-08-14 14:08:576 INFO  LoginPage:31 -Clicked in Login Button
+2019-08-14 14:08:577 INFO  TestBase:102 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-14 14:08:664 INFO  VerficationHelper:64 -actualText is :Log Off expected text is: Log Off
+2019-08-14 14:08:679 INFO  HomePage:32 -Getting the current Network Name Element
+2019-08-14 14:08:682 INFO  TestBase:102 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-14 14:08:718 INFO  HomePageHelper:34 -Getting the Current Newtrok Name=Matter Management Regression Network_Office
+2019-08-14 14:08:720 INFO  HomePage:32 -Getting the current Network Name Element
+2019-08-14 14:08:721 INFO  TestBase:102 -Loading the propertiesFile key=HOMEPAGE_NEWTWORK_HEADER_ID_XPATH and value=//*[@id="networkHeaderId"]/span[@class='header-link-title']
+2019-08-14 14:08:815 INFO  HomePageHelper:34 -Clicking the Current Newtrok Name=Matter Management Regression Network_Office
+2019-08-14 14:08:910 INFO  HomePage:32 -Selecting Given Newtork Name=ArunTestNetwork
+2019-08-14 14:08:912 INFO  TC_003SwitchToNewtork:45 -***********Ending-TC_003SwitchToNewtork************
+2019-08-14 14:08:914 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.TC_003SwitchToNewtork
+2019-08-14 14:08:664 INFO  TestBase:81 -Closing the browser
+2019-08-20 11:08:407 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 11:08:621 INFO  TestBase:67 -Getting the URL
+2019-08-20 11:08:622 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 11:08:998 INFO  TC_001CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-20 11:08:03 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 11:08:191 INFO  LoginPage:29 -Entered UserName=sa
+2019-08-20 11:08:192 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 11:08:280 INFO  LoginPage:29 -Entered Password=sa
+2019-08-20 11:08:281 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 11:08:180 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 11:08:183 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-20 11:08:877 INFO  TestBase:77 -Closing the browser
+2019-08-20 11:08:144 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 11:08:854 INFO  TestBase:67 -Getting the URL
+2019-08-20 11:08:856 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 11:08:08 INFO  TC_001CheckingValidLogin:41 -**********Starting-TC_002CheckingValidLogin**********
+2019-08-20 11:08:11 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 11:08:116 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 11:08:117 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 11:08:212 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 11:08:212 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 11:08:692 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 11:08:692 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_LOGOFF and value=xpath://*[@id="gmLogoffButton"]
+2019-08-20 11:08:913 INFO  TestBase:77 -Closing the browser
+2019-08-20 12:08:470 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 12:08:36 INFO  TestBase:67 -Getting the URL
+2019-08-20 12:08:37 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 12:08:982 INFO  TestBase:240 -**********Starting-TC_002LoginAndLogOff**********
+2019-08-20 12:08:985 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 12:08:101 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 12:08:102 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 12:08:204 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 12:08:204 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 12:08:133 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 12:08:136 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_USERIMAGE and value=xpath://img[contains(@src,'themes/softed/images/user.PNG')]
+2019-08-20 12:08:448 INFO  HomePage:42 -MouseOver to UserImg
+2019-08-20 12:08:448 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_SIGNOUT and value=xpath://a[contains(@href,'index.php?module=Users&action=Logout')]
+2019-08-20 12:08:522 INFO  HomePage:42 -Clicked signOut
+2019-08-20 12:08:522 INFO  TestBase:240 -***********Ending-TC_002LoginAndLogOff************
+2019-08-20 12:08:526 INFO  TestBase:77 -Closing the browser
+2019-08-20 12:08:839 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 12:08:326 INFO  TestBase:67 -Getting the URL
+2019-08-20 12:08:327 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 12:08:309 INFO  TC_002LoginAndLogOff:44 -**********Starting-TC_002LoginAndLogOff**********
+2019-08-20 12:08:312 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 12:08:409 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 12:08:409 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 12:08:502 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 12:08:502 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 12:08:420 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 12:08:423 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_USERIMAGE and value=xpath://img[contains(@src,'themes/softed/images/user.PNG')]
+2019-08-20 12:08:688 INFO  HomePage:42 -MouseOver to UserImg
+2019-08-20 12:08:689 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_SIGNOUT and value=xpath://a[contains(@href,'index.php?module=Users&action=Logout')]
+2019-08-20 12:08:759 INFO  HomePage:42 -Clicked signOut
+2019-08-20 12:08:759 INFO  TC_002LoginAndLogOff:44 -***********Ending-TC_002LoginAndLogOff************
+2019-08-20 12:08:763 INFO  TestBase:77 -Closing the browser
+2019-08-20 16:08:03 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:768 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:769 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:730 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 16:08:745 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:843 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:844 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:939 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:940 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:684 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:723 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:799 INFO  HomePage:36 -clicked the Leads tab
+2019-08-20 16:08:838 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:897 INFO  LeadsPage:64 -Clicked Create New Leads Button
+2019-08-20 16:08:898 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://*[@name="salutationtype"]
+2019-08-20 16:08:998 INFO  LeadsPage:64 -Select the First name title=Mr.
+2019-08-20 16:08:01 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 16:08:39 INFO  TestBase:77 -Closing the browser
+2019-08-20 16:08:183 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:706 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:706 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:684 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 16:08:689 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:771 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:772 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:842 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:843 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:326 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:349 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:403 INFO  HomePage:36 -clicked the Leads tab
+2019-08-20 16:08:406 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:462 INFO  LeadsPage:64 -Clicked Create New Leads Button
+2019-08-20 16:08:463 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://*[@name='salutationtype']
+2019-08-20 16:08:572 INFO  LeadsPage:64 -Select the First name title=Mr.
+2019-08-20 16:08:584 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 16:08:690 INFO  TestBase:77 -Closing the browser
+2019-08-20 16:08:253 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:912 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:913 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:820 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 16:08:829 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:582 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:733 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:597 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:959 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:358 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:50 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:236 INFO  HomePage:36 -clicked the Leads tab
+2019-08-20 16:08:217 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:371 INFO  LeadsPage:64 -Clicked Create New Leads Button
+2019-08-20 16:08:188 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://*[@name='salutationtype']
+2019-08-20 16:08:860 INFO  LeadsPage:64 -Select the First name title=Mr.
+2019-08-20 16:08:186 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 16:08:688 INFO  LeadsPage:64 -Enter the first name=Arun
+2019-08-20 16:08:675 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 16:08:247 INFO  LeadsPage:64 -Enter the first name=Kumar
+2019-08-20 16:08:914 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 16:08:293 INFO  LeadsPage:64 -Enter the comapany name=admndl
+2019-08-20 16:08:613 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_ASSIGNED_TO_USER_RADIO and value=xpath://*[@value='U']
+2019-08-20 16:08:10 INFO  LeadsPage:64 -clicked the Assignment to user
+2019-08-20 16:08:834 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 16:08:317 INFO  JavaScriptHelper:77 -arguments[0].scrollIntoView()
+2019-08-20 16:08:285 INFO  TestBase:77 -Closing the browser
+2019-08-20 16:08:251 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:758 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:759 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:743 INFO  TC_002LoginAndLogOff:44 -**********Starting-TC_002LoginAndLogOff**********
+2019-08-20 16:08:753 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:782 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:619 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:719 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:484 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:515 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:01 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_USERIMAGE and value=xpath://img[contains(@src,'themes/softed/images/user.PNG')]
+2019-08-20 16:08:335 INFO  HomePage:36 -MouseOver to UserImg
+2019-08-20 16:08:343 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_SIGNOUT and value=xpath://a[contains(@href,'index.php?module=Users&action=Logout')]
+2019-08-20 16:08:506 INFO  HomePage:36 -Clicked signOut
+2019-08-20 16:08:660 INFO  TC_002LoginAndLogOff:44 -***********Ending-TC_002LoginAndLogOff************
+2019-08-20 16:08:95 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:748 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:750 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:403 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 16:08:410 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:370 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:954 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:481 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:485 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:576 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:220 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:367 INFO  HomePage:36 -clicked the Leads tab
+2019-08-20 16:08:391 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:536 INFO  LeadsPage:64 -Clicked Create New Leads Button
+2019-08-20 16:08:798 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 16:08:64 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (ea55d2c967523e4e123f502e8a1ea6b4)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 16:08:282 INFO  LeadsPage:64 -Select the First name title=Mr.
+2019-08-20 16:08:486 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 16:08:905 INFO  LeadsPage:64 -Enter the first name=Arun
+2019-08-20 16:08:923 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 16:08:289 INFO  LeadsPage:64 -Enter the first name=Kumar
+2019-08-20 16:08:77 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 16:08:461 INFO  LeadsPage:64 -Enter the comapany name=admndl
+2019-08-20 16:08:80 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_ASSIGNED_TO_USER_RADIO and value=xpath://*[@value='U']
+2019-08-20 16:08:265 INFO  LeadsPage:64 -clicked the Assignment to user
+2019-08-20 16:08:376 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 16:08:981 INFO  JavaScriptHelper:77 -arguments[0].scrollIntoView()
+2019-08-20 16:08:141 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:101 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:108 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:54 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 16:08:61 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:297 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:304 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:288 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:297 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:100 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:98 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:652 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:784 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 16:08:00 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:379 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:516 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 16:08:78 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:648 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:649 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:582 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 16:08:585 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:671 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:672 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:761 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:762 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:369 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:374 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:633 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:664 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 16:08:667 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:770 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:787 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 16:08:789 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 16:08:840 INFO  LeadsPage:66 -Select the First name title=Mr.
+2019-08-20 16:08:854 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 16:08:946 INFO  TestBase:77 -Closing the browser
+2019-08-20 16:08:244 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 16:08:892 INFO  TestBase:67 -Getting the URL
+2019-08-20 16:08:892 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 16:08:827 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 16:08:830 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 16:08:934 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 16:08:935 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 16:08:37 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 16:08:37 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 16:08:635 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 16:08:640 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:878 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 16:08:935 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 16:08:938 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:98 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 16:08:115 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 16:08:117 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 16:08:235 INFO  LeadsPage:66 -Select the First name title=Mr.
+2019-08-20 16:08:236 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 16:08:272 INFO  TestBase:77 -Closing the browser
+2019-08-20 17:08:84 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 17:08:732 INFO  TestBase:67 -Getting the URL
+2019-08-20 17:08:732 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 17:08:720 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 17:08:729 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 17:08:676 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 17:08:693 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 17:08:281 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 17:08:238 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 17:08:590 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 17:08:676 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:200 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:341 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 17:08:795 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 17:08:277 INFO  TestBase:67 -Getting the URL
+2019-08-20 17:08:277 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 17:08:265 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 17:08:269 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 17:08:374 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 17:08:374 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 17:08:467 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 17:08:468 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 17:08:111 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 17:08:116 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:411 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:470 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 17:08:480 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:552 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:571 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 17:08:572 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 17:08:837 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (e86ef8c5b490f5ce2ea0ad44f3db60a2)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 17:08:837 INFO  LeadsPage:66 -Select the First name title=Mr.
+2019-08-20 17:08:838 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 17:08:926 INFO  LeadsPage:66 -Enter the first name=Arun
+2019-08-20 17:08:926 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 17:08:14 INFO  LeadsPage:66 -Enter the first name=Kumar
+2019-08-20 17:08:15 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 17:08:114 INFO  LeadsPage:66 -Enter the comapany name=admndl
+2019-08-20 17:08:115 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_ASSIGNED_TO_USER_RADIO and value=xpath://*[@value='U']
+2019-08-20 17:08:192 INFO  LeadsPage:66 -clicked the Assignment to user
+2019-08-20 17:08:193 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 17:08:697 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 17:08:761 INFO  TestBase:67 -Getting the URL
+2019-08-20 17:08:761 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 17:08:755 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 17:08:759 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 17:08:849 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 17:08:849 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 17:08:939 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 17:08:940 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 17:08:101 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 17:08:127 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:285 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:328 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 17:08:338 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:539 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:559 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 17:08:560 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 17:08:605 INFO  LeadsPage:66 -Select the First name title=Mr.
+2019-08-20 17:08:606 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 17:08:702 INFO  TestBase:77 -Closing the browser
+2019-08-20 17:08:465 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 17:08:283 INFO  TestBase:67 -Getting the URL
+2019-08-20 17:08:283 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 17:08:297 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 17:08:300 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 17:08:422 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 17:08:422 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 17:08:535 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 17:08:536 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 17:08:908 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 17:08:917 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath:/html/body/table[2]/tbody/tr/td[2]/table/tbody/tr/td[4]/a
+2019-08-20 17:08:171 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath:/html/body/table[2]/tbody/tr/td[2]/table/tbody/tr/td[4]/a
+2019-08-20 17:08:187 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 17:08:190 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:374 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:390 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 17:08:392 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 17:08:513 INFO  LeadsPage:66 -Select the First name title=Mr.
+2019-08-20 17:08:514 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 17:08:218 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 17:08:723 INFO  TestBase:67 -Getting the URL
+2019-08-20 17:08:724 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 17:08:701 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 17:08:704 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 17:08:798 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 17:08:799 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 17:08:898 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 17:08:898 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 17:08:657 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 17:08:662 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:865 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:175 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 17:08:180 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:234 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:38 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 17:08:41 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 17:08:165 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (edd169f18d21db93b9cf8e6c2b63f0bb)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 17:08:165 INFO  LeadsPage:66 -Select the First name title=Mr.
+2019-08-20 17:08:166 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 17:08:269 INFO  LeadsPage:66 -Enter the first name=Arun
+2019-08-20 17:08:269 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 17:08:381 INFO  LeadsPage:66 -Enter the first name=Kumar
+2019-08-20 17:08:382 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 17:08:500 INFO  LeadsPage:66 -Enter the comapany name=admndl
+2019-08-20 17:08:500 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_ASSIGNED_TO_USER_RADIO and value=xpath://*[@value='U']
+2019-08-20 17:08:581 INFO  LeadsPage:66 -clicked the Assignment to user
+2019-08-20 17:08:581 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 17:08:617 INFO  JavaScriptHelper:77 -arguments[0].scrollIntoView()
+2019-08-20 17:08:637 INFO  TestBase:77 -Closing the browser
+2019-08-20 17:08:294 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 17:08:845 INFO  TestBase:67 -Getting the URL
+2019-08-20 17:08:853 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 17:08:891 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 17:08:894 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 17:08:995 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 17:08:995 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 17:08:111 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 17:08:112 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 17:08:896 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 17:08:901 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:162 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:452 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 17:08:456 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:523 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:352 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 17:08:354 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 17:08:482 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (be62ac367f971a5d55f4dbace09082ce)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 17:08:482 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 17:08:483 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 17:08:589 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 17:08:590 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 17:08:690 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 17:08:691 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 17:08:796 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 17:08:797 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_ASSIGNED_TO_USER_RADIO and value=xpath://*[@value='U']
+2019-08-20 17:08:867 INFO  LeadsPage:67 -clicked the Assignment to user
+2019-08-20 17:08:867 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 17:08:555 INFO  TestBase:77 -Closing the browser
+2019-08-20 17:08:451 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 17:08:136 INFO  TestBase:67 -Getting the URL
+2019-08-20 17:08:139 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 17:08:61 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 17:08:64 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 17:08:166 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 17:08:167 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 17:08:275 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 17:08:275 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 17:08:112 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 17:08:117 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:463 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 17:08:490 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 17:08:493 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:554 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 17:08:504 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 17:08:507 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 17:08:626 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (d797e42153bff325b9d5a78c4b8b9b12)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 17:08:627 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 17:08:627 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 17:08:721 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 17:08:721 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 17:08:820 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 17:08:820 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 17:08:924 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 17:08:925 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 17:08:06 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:450 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:108 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:109 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:129 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:133 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:243 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:244 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:344 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:344 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:111 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:116 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:460 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:45 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:49 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:124 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:383 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:387 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:524 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (a0a6684070e077a80f44aba280022099)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:525 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:526 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:643 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:644 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:752 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:753 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:874 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:874 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:663 INFO  JavaScriptHelper:77 -arguments[0].scrollIntoView()
+2019-08-20 18:08:804 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:597 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:354 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:354 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:340 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:343 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:440 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:440 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:540 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:541 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:548 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:553 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:818 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:56 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:61 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:126 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:282 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:285 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:426 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (76a554b271a0253c0e54fcd860c2bd8c)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:427 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:428 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:598 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:599 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:743 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:744 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:862 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:865 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:876 INFO  LeadsPage:67 -scroll down and clicked the save button
+2019-08-20 18:08:877 INFO  LeadsPageServices:33 -New Leads Created
+2019-08-20 18:08:877 INFO  TC_001_CraeatingLeads:45 -***********Ending-TC_001_CraeatingLeads************
+2019-08-20 18:08:881 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:351 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:967 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:971 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:03 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:07 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:109 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:109 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:215 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:216 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:52 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:59 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:377 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:612 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:617 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:670 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:531 INFO  LeadsPage:66 -Clicked Create New Leads Button
+2019-08-20 18:08:535 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:649 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (24540f95d8acc822d13c1549cc28bf93)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:650 INFO  LeadsPage:66 -Select the First name title=Mr.
+2019-08-20 18:08:650 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:743 INFO  LeadsPage:66 -Enter the first name=Arun
+2019-08-20 18:08:744 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:846 INFO  LeadsPage:66 -Enter the first name=Kumar
+2019-08-20 18:08:846 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:956 INFO  LeadsPage:66 -Enter the comapany name=admndl
+2019-08-20 18:08:959 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:972 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:27 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:445 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:54 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:54 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:85 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:90 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:178 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:179 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:271 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:271 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:899 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:905 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:155 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:437 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:440 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:502 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:518 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:520 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:642 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (aaeffb8a72e38fe9b59539d1a6fc8905)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:643 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:643 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:751 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:752 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:866 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:867 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:982 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:986 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:00 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:534 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:46 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:47 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:42 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:45 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:145 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:146 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:241 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:241 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:972 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:977 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:282 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:141 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:145 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:208 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:185 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:187 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:318 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (44655c61989d993d1c38e580d3906e93)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:319 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:319 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:499 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:499 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:628 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:628 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:742 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:745 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:755 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:471 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:489 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:490 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:00 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:03 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:112 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:113 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:203 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:204 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:968 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:974 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:349 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:824 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:828 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:883 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:126 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:130 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:256 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (44a176c652002b71cc6f991eb6f3a53a)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:257 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:258 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:379 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:379 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:502 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:503 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:615 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:616 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:653 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_TOP_SAVE_BUTTON and value=xpath://td[normalize-space(text())='First Name']/../preceding-sibling::tr//input[@type='submit']
+2019-08-20 18:08:65 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:02 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:338 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:340 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:419 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:422 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:512 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:512 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:605 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:606 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:365 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:371 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:759 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:828 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:832 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:902 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:886 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:890 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:18 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (b51f2d19f8695602a810c2bddce5d93b)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:19 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:20 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:128 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:129 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:243 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:244 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:364 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:365 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:439 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_TOP_SAVE_BUTTON and value=xpath://td[normalize-space(text())='First Name']/../preceding-sibling::tr//input[@type='submit']
+2019-08-20 18:08:537 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:535 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:161 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:162 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:180 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:184 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:286 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:287 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:390 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:390 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:228 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:233 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:510 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:873 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:880 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:933 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:860 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:864 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:989 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (99b17974c2515272a7ac4ccf56c0f087)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:990 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:990 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:94 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:94 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:201 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:202 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:317 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:321 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:338 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:414 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_TOP_SAVE_BUTTON and value=xpath://td[normalize-space(text())='First Name']/../preceding-sibling::tr//input[@type='submit']
+2019-08-20 18:08:481 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:462 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:01 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:02 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:26 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:29 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:126 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:127 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:230 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:231 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:191 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:197 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:565 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:864 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:869 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:924 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:764 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:766 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:889 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (5f4bdcf44e45855fe0072690698c878e)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:889 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:890 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:995 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:996 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:98 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:99 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:218 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:222 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:236 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name="description"]/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:283 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_TOP_SAVE_BUTTON and value=xpath://td[normalize-space(text())='First Name']/../preceding-sibling::tr//input[@type='submit']
+2019-08-20 18:08:370 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:251 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:802 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:811 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:782 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:785 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:899 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:900 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:999 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:00 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:718 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:724 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:890 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:540 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:546 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:584 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:424 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:426 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:562 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (8cde34e4b6e6378533466335c4669ca1)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:563 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:564 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:663 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:664 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:772 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:773 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:883 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:887 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:900 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:974 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_TOP_SAVE_BUTTON and value=xpath://td[normalize-space(text())='First Name']/../preceding-sibling::tr//input[@type='submit']
+2019-08-20 18:08:84 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:853 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:424 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:425 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:349 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:352 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:437 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:438 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:526 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:527 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:266 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:271 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:436 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:870 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:873 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:928 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:941 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:942 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:69 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (1073b201f06ba4477cf9281dc23eac15)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:70 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:70 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:174 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:175 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:280 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:281 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:380 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:384 INFO  JavaScriptHelper:77 -window.scrollTo(0, document.body.scrollHeight)
+2019-08-20 18:08:395 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:510 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://*[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:569 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:679 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:247 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:247 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:218 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:221 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:303 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:304 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:389 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:389 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:833 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:840 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:27 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:829 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:832 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:892 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:811 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 18:08:813 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:934 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (1fa6431c6b4654e9a1c0856837cf947f)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:934 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 18:08:935 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:36 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 18:08:36 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:148 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 18:08:149 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:270 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 18:08:271 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:355 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:420 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:631 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:206 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:206 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:171 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:174 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:269 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:269 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:365 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:365 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:937 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:943 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:208 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:589 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:595 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:659 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:571 INFO  LeadsPage:68 -Clicked Create New Leads Button
+2019-08-20 18:08:572 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:707 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (c69a3ea5fbecaa556996edf2d57dac55)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:707 INFO  LeadsPage:68 -Select the First name title=Mr.
+2019-08-20 18:08:708 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:817 INFO  LeadsPage:68 -Enter the first name=Arun
+2019-08-20 18:08:818 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:925 INFO  LeadsPage:68 -Enter the first name=Kumar
+2019-08-20 18:08:926 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:31 INFO  LeadsPage:68 -Enter the comapany name=admndl
+2019-08-20 18:08:31 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:152 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:183 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:980 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:553 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:554 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:535 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:540 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:636 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:637 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:732 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:732 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:621 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:626 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:58 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:538 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:541 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:602 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:377 INFO  LeadsPage:68 -Clicked Create New Leads Button
+2019-08-20 18:08:381 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:500 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (d7e7b50ba64db8f09d05dc4323dbefc6)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:501 INFO  LeadsPage:68 -Select the First name title=Mr.
+2019-08-20 18:08:501 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:603 INFO  LeadsPage:68 -Enter the first name=Arun
+2019-08-20 18:08:604 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:709 INFO  LeadsPage:68 -Enter the first name=Kumar
+2019-08-20 18:08:709 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:868 INFO  LeadsPage:68 -Enter the comapany name=admndl
+2019-08-20 18:08:869 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath:(//input[@type='submit'])[2]
+2019-08-20 18:08:929 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath:(//input[@type='submit'])[2]
+2019-08-20 18:08:20 INFO  LeadsPage:68 -scroll down and clicked the save button
+2019-08-20 18:08:21 INFO  LeadsPageServices:35 -New Leads Created
+2019-08-20 18:08:21 INFO  TC_001_CraeatingLeads:45 -***********Ending-TC_001_CraeatingLeads************
+2019-08-20 18:08:26 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:587 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:43 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:44 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:07 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:10 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:98 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:98 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:185 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:186 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:839 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:860 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:61 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:88 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:92 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:160 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:36 INFO  LeadsPage:68 -Clicked Create New Leads Button
+2019-08-20 18:08:39 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:169 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (eb1da4c5a06fa05a12c63cfa09eadbe5)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:170 INFO  LeadsPage:68 -Select the First name title=Mr.
+2019-08-20 18:08:171 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:281 INFO  LeadsPage:68 -Enter the first name=Arun
+2019-08-20 18:08:282 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:383 INFO  LeadsPage:68 -Enter the first name=Kumar
+2019-08-20 18:08:384 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:508 INFO  LeadsPage:68 -Enter the comapany name=admndl
+2019-08-20 18:08:508 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:608 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:632 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:668 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:199 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:207 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:170 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:173 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:270 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:271 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:358 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:360 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:898 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:903 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:103 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:316 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:319 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:379 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:274 INFO  LeadsPage:68 -Clicked Create New Leads Button
+2019-08-20 18:08:277 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:396 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (bfe974b1192ac642d9655788ea9e31c9)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:397 INFO  LeadsPage:68 -Select the First name title=Mr.
+2019-08-20 18:08:397 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:508 INFO  LeadsPage:68 -Enter the first name=Arun
+2019-08-20 18:08:509 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:615 INFO  LeadsPage:68 -Enter the first name=Kumar
+2019-08-20 18:08:615 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:736 INFO  LeadsPage:68 -Enter the comapany name=admndl
+2019-08-20 18:08:737 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:857 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:923 INFO  TestBase:77 -Closing the browser
+2019-08-20 18:08:792 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 18:08:346 INFO  TestBase:67 -Getting the URL
+2019-08-20 18:08:347 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 18:08:285 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 18:08:288 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 18:08:378 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 18:08:379 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 18:08:465 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 18:08:466 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 18:08:917 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 18:08:923 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:88 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 18:08:651 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 18:08:655 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:715 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 18:08:863 INFO  LeadsPage:69 -Clicked Create New Leads Button
+2019-08-20 18:08:866 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 18:08:987 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (4be0bbc0f5daf6bf2956f0fead346743)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 18:08:987 INFO  LeadsPage:69 -Select the First name title=Mr.
+2019-08-20 18:08:988 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 18:08:104 INFO  LeadsPage:69 -Enter the first name=Arun
+2019-08-20 18:08:104 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 18:08:225 INFO  LeadsPage:69 -Enter the first name=Kumar
+2019-08-20 18:08:225 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 18:08:340 INFO  LeadsPage:69 -Enter the comapany name=admndl
+2019-08-20 18:08:341 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:453 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath://textarea[@name='description']/../../following-sibling::tr//input[@type='submit']
+2019-08-20 18:08:537 INFO  TestBase:77 -Closing the browser
+2019-08-20 19:08:792 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-20 19:08:542 INFO  TestBase:67 -Getting the URL
+2019-08-20 19:08:542 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-20 19:08:711 INFO  TC_001_CraeatingLeads:45 -**********Starting-TC_001_CraeatingLeads**********
+2019-08-20 19:08:714 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-20 19:08:817 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-20 19:08:817 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-20 19:08:931 INFO  LoginPage:29 -Entered Password=password
+2019-08-20 19:08:932 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-20 19:08:763 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-20 19:08:768 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 19:08:68 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_LEADS and value=xpath://table[@class="hdrTabBg"]//td[@class='small']//a[contains(@href,'index.php?module=Leads&action=index')]
+2019-08-20 19:08:204 INFO  HomePage:38 -clicked the Leads tab
+2019-08-20 19:08:209 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 19:08:261 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATE_LEADS and value=xpath://img[contains(@src,'themes/softed/images/btnL3Add.gif')]
+2019-08-20 19:08:742 INFO  LeadsPage:67 -Clicked Create New Leads Button
+2019-08-20 19:08:744 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TITLE_SELECT and value=xpath://select[@name='salutationtype']
+2019-08-20 19:08:876 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (9b849a7eeb615deab663db57ce173fd5)] -> xpath: //select[@name='salutationtype']] Value : Mr.
+2019-08-20 19:08:877 INFO  LeadsPage:67 -Select the First name title=Mr.
+2019-08-20 19:08:878 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_FIRSTNAME_TEXT and value=xpath://*[@name='firstname']
+2019-08-20 19:08:975 INFO  LeadsPage:67 -Enter the first name=Arun
+2019-08-20 19:08:976 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_LASTNAME_TEXT and value=xpath://*[@name='lastname']
+2019-08-20 19:08:81 INFO  LeadsPage:67 -Enter the first name=Kumar
+2019-08-20 19:08:81 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_COMPANYNAME_TEXT and value=xpath://*[@name='company']
+2019-08-20 19:08:188 INFO  LeadsPage:67 -Enter the comapany name=admndl
+2019-08-20 19:08:189 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath:(//input[@type='submit'])[2]
+2019-08-20 19:08:241 INFO  TestBase:98 -Loading the propertiesFile key=LEADSPAGE_CREATING_NEW_LEADS_BUTTOM_SAVE_BUTTON and value=xpath:(//input[@type='submit'])[2]
+2019-08-20 19:08:256 INFO  JavaScriptHelper:77 -arguments[0].scrollIntoView()
+2019-08-20 19:08:266 INFO  JavaScriptHelper:77 -element=[[ChromeDriver: chrome on XP (9b849a7eeb615deab663db57ce173fd5)] -> xpath: (//input[@type='submit'])[2]]
+2019-08-20 19:08:894 INFO  JavaScriptHelper:77 -element=[[ChromeDriver: chrome on XP (9b849a7eeb615deab663db57ce173fd5)] -> xpath: (//input[@type='submit'])[2]]
+2019-08-20 19:08:895 INFO  LeadsPage:67 -scroll down and clicked the save button
+2019-08-20 19:08:895 INFO  LeadsPageServices:34 -New Leads Created
+2019-08-20 19:08:896 INFO  TC_001_CraeatingLeads:45 -***********Ending-TC_001_CraeatingLeads************
+2019-08-20 19:08:902 INFO  TestBase:77 -Closing the browser
+2019-08-21 13:08:895 INFO  TC_001ExcelReading:28 -just
+2019-08-21 13:08:934 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 13:08:124 INFO  TestBase:67 -Getting the URL
+2019-08-21 13:08:125 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 13:08:196 INFO  TC_001ExcelReading:28 -just
+2019-08-21 13:08:196 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 13:08:97 INFO  TestBase:67 -Getting the URL
+2019-08-21 13:08:98 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 13:08:150 INFO  TestBase:77 -Closing the browser
+2019-08-21 15:08:575 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 15:08:199 INFO  TestBase:67 -Getting the URL
+2019-08-21 15:08:199 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 15:08:195 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 15:08:208 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 15:08:307 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-21 15:08:308 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 15:08:404 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 15:08:405 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 15:08:175 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 15:08:218 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 15:08:465 INFO  HomePage:50 -Clicked on the HomePage button
+2019-08-21 15:08:466 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 15:08:613 INFO  HomePage:50 -Selected the QuickCreateOptions=Accounts
+2019-08-21 15:08:616 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_NAME_TEXT and value=xpath://input[@name='accountname']
+2019-08-21 15:08:706 INFO  TestBase:77 -Closing the browser
+2019-08-21 16:08:793 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 16:08:394 INFO  TestBase:67 -Getting the URL
+2019-08-21 16:08:395 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 16:08:394 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:397 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:506 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-21 16:08:507 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:605 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:606 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:21 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:42 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:827 INFO  HomePage:51 -Clicked on the HomePage button
+2019-08-21 16:08:827 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:967 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:95 INFO  HomePage:51 -Selected the QuickCreateOptions=Accounts
+2019-08-21 16:08:97 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_NAME_TEXT and value=xpath://input[@name='accountname']
+2019-08-21 16:08:206 INFO  TestBase:77 -Closing the browser
+2019-08-21 16:08:604 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 16:08:120 INFO  TestBase:67 -Getting the URL
+2019-08-21 16:08:125 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 16:08:123 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:126 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:211 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-21 16:08:212 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:301 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:302 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:896 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:903 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:338 INFO  HomePage:51 -Clicked on the HomePage button
+2019-08-21 16:08:339 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:469 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:689 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (a0e2d53e6901624492e0eadb06063eda)] -> xpath: //select[@id='qccombo']] value : Accounts
+2019-08-21 16:08:689 INFO  HomePage:51 -Selected the QuickCreateOptions=Accounts
+2019-08-21 16:08:693 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_NAME_TEXT and value=xpath://input[@name='accountname']
+2019-08-21 16:08:973 INFO  HomePage:48 -Enter the Organization name=ABC
+2019-08-21 16:08:973 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_PHONE_TEXT and value=xpath://input[@id='phone']
+2019-08-21 16:08:54 INFO  HomePage:48 -Enter the phone=9999
+2019-08-21 16:08:54 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_WEBSITE_TEXT and value=xpath://input[@name='website']
+2019-08-21 16:08:185 INFO  HomePage:48 -Enter the website=www.naresh.com
+2019-08-21 16:08:186 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_SAVE_BUTTON and value=xpath://input[@title='Save [Alt+S]']
+2019-08-21 16:08:283 INFO  HomePage:48 -Clicked the Save Button
+2019-08-21 16:08:283 INFO  TC_001_QuickCreateQrganization:46 -***********Ending-TC_001_QuickCreateQrganization************
+2019-08-21 16:08:288 INFO  TestBase:77 -Closing the browser
+2019-08-21 16:08:333 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 16:08:57 INFO  TestBase:67 -Getting the URL
+2019-08-21 16:08:57 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 16:08:120 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:123 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:209 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-21 16:08:209 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:307 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:308 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:957 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:964 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:310 INFO  HomePage:51 -Clicked on the HomePage button
+2019-08-21 16:08:310 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:400 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:649 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (e3856974281ac34a170b427b006f0728)] -> xpath: //select[@id='qccombo']] value : Accounts
+2019-08-21 16:08:650 INFO  HomePage:51 -Selected the QuickCreateOptions=Accounts
+2019-08-21 16:08:655 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_NAME_TEXT and value=xpath://input[@name='accountname']
+2019-08-21 16:08:977 INFO  OrganizationPage:48 -Enter the Organization name=ABC
+2019-08-21 16:08:978 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_PHONE_TEXT and value=xpath://input[@id='phone']
+2019-08-21 16:08:54 INFO  OrganizationPage:48 -Enter the phone=9999
+2019-08-21 16:08:54 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_WEBSITE_TEXT and value=xpath://input[@name='website']
+2019-08-21 16:08:254 INFO  OrganizationPage:48 -Enter the website=www.naresh.com
+2019-08-21 16:08:255 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_SAVE_BUTTON and value=xpath://input[@title='Save [Alt+S]']
+2019-08-21 16:08:348 INFO  OrganizationPage:48 -Clicked the Save Button
+2019-08-21 16:08:349 INFO  TC_001_QuickCreateQrganization:46 -***********Ending-TC_001_QuickCreateQrganization************
+2019-08-21 16:08:353 INFO  TestBase:77 -Closing the browser
+2019-08-21 16:08:217 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 16:08:772 INFO  TestBase:67 -Getting the URL
+2019-08-21 16:08:773 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 16:08:769 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:836 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:839 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:947 INFO  LoginPage:29 -Entered UserName=admin1
+2019-08-21 16:08:948 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:44 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:46 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:437 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:446 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:505 INFO  TestBase:76 -Test is Skipped:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:512 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:512 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:512 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:616 INFO  LoginPage:29 -Entered UserName=admin1
+2019-08-21 16:08:617 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:700 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:700 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:208 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:209 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:257 INFO  TestBase:76 -Test is Skipped:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:262 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:262 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:262 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:348 INFO  LoginPage:29 -Entered UserName=admin1
+2019-08-21 16:08:349 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:425 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:426 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:787 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:790 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:861 INFO  TestBase:76 -Test is Skipped:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:867 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:867 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:867 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:976 INFO  LoginPage:29 -Entered UserName=admin1
+2019-08-21 16:08:976 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:74 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:75 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:563 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:563 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:606 INFO  TestBase:76 -Test is Skipped:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:609 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:609 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:610 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:703 INFO  LoginPage:29 -Entered UserName=admin1
+2019-08-21 16:08:704 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:771 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:771 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:130 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:131 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:174 INFO  TestBase:76 -Test is Failure:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:758 INFO  TestBase:77 -Closing the browser
+2019-08-21 16:08:860 INFO  TestBase:98 -Loading the propertiesFile key=browser and value=chrome
+2019-08-21 16:08:335 INFO  TestBase:67 -Getting the URL
+2019-08-21 16:08:336 INFO  TestBase:98 -Loading the propertiesFile key=url and value=http://localhost:8888/index.php?module=Home&action=index
+2019-08-21 16:08:282 INFO  TestBase:76 -Test is Start:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:285 INFO  TC_001_QuickCreateQrganization:46 -**********Starting-TC_001_QuickCreateQrganization**********
+2019-08-21 16:08:288 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_USERNAME and value=xpath://input[@name='user_name']
+2019-08-21 16:08:388 INFO  LoginPage:29 -Entered UserName=admin
+2019-08-21 16:08:389 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_PASSWORD and value=xpath://input[@name='user_password']
+2019-08-21 16:08:478 INFO  LoginPage:29 -Entered Password=password
+2019-08-21 16:08:479 INFO  TestBase:98 -Loading the propertiesFile key=LOGIN_BUTTON and value=xpath://input[@id='submitButton']
+2019-08-21 16:08:102 INFO  LoginPage:29 -Clicked in Login Button
+2019-08-21 16:08:107 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_HOMEPAGE_TAB and value=xpath://img[contains(@src,'themes/softed/images/Home.PNG')]
+2019-08-21 16:08:630 INFO  HomePage:51 -Clicked on the HomePage button
+2019-08-21 16:08:631 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:773 INFO  TestBase:98 -Loading the propertiesFile key=HOMEPAGE_MAIN_TABS_QUICKCREATE_DROPDOWN and value=xpath://select[@id='qccombo']
+2019-08-21 16:08:60 INFO  DropDown:71 -Locator : [[ChromeDriver: chrome on XP (a002263cc088da4d8a6c16024cc9ddfe)] -> xpath: //select[@id='qccombo']] value : Accounts
+2019-08-21 16:08:62 INFO  HomePage:51 -Selected the QuickCreateOptions=Accounts
+2019-08-21 16:08:66 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_NAME_TEXT and value=xpath://input[@name='accountname']
+2019-08-21 16:08:207 INFO  OrganizationPage:48 -Enter the Organization name=ABC
+2019-08-21 16:08:208 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_PHONE_TEXT and value=xpath://input[@id='phone']
+2019-08-21 16:08:279 INFO  OrganizationPage:48 -Enter the phone=9999
+2019-08-21 16:08:280 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_WEBSITE_TEXT and value=xpath://input[@name='website']
+2019-08-21 16:08:403 INFO  OrganizationPage:48 -Enter the website=www.naresh.com
+2019-08-21 16:08:404 INFO  TestBase:98 -Loading the propertiesFile key=ORAGANIZATION_PAGE_ORGANIZATIN_SAVE_BUTTON and value=xpath://input[@title='Save [Alt+S]']
+2019-08-21 16:08:476 INFO  OrganizationPage:48 -Clicked the Save Button
+2019-08-21 16:08:477 INFO  TC_001_QuickCreateQrganization:46 -***********Ending-TC_001_QuickCreateQrganization************
+2019-08-21 16:08:479 INFO  TestBase:76 -Test is Success:com.arun.LocalProject.TestScript.QuickCreatePage.TC_001_QuickCreateQrganization
+2019-08-21 16:08:886 INFO  TestBase:77 -Closing the browser
